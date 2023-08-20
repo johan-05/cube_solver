@@ -52,3 +52,5 @@ function init()
 
     return gl;
 }
+
+init();
